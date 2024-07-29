@@ -224,7 +224,7 @@ op_sign*: $ARG1.sign()
 op_ceil*: $ARG1.ceil()
 op_floor*: $ARG1.floor()
 op_trunc*: $ARG1.trunc()
-op_roundTiesToEven*: $ARG1.round_ties_to_even()
+op_roundTiesToEven*: $ARG1.round_ties_even()
 op_roundTiesToAway*: $ARG1.round()
 
 # Absmax functions
